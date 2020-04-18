@@ -1,0 +1,79 @@
+# helium_spelling_sample
+## Result of test
+
+- controlEvent: keyPress
+  - identifier: x
+  - timestamp: Sat Apr 18 17:15:14 CDT 2020
+  - value: x
+- controlEvent: keyPress
+  - identifier: f
+  - timestamp: Sat Apr 18 17:15:14 CDT 2020
+  - value: xf
+- controlEvent: keyPress
+  - identifier: b
+  - timestamp: Sat Apr 18 17:15:14 CDT 2020
+  - value: xfb
+- controlEvent: keyPress
+  - identifier: h
+  - timestamp: Sat Apr 18 17:15:14 CDT 2020
+  - value: xfbh
+- controlEvent: keyPress
+  - identifier: b
+  - timestamp: Sat Apr 18 17:17:37 CDT 2020
+  - value: xfbhb
+- controlEvent: keyPress
+  - identifier: b
+  - timestamp: Sat Apr 18 17:17:38 CDT 2020
+  - value: xfbhbd
+- controlEvent: keyPress
+  - identifier: b
+  - timestamp: Sat Apr 18 17:17:38 CDT 2020
+  - value: xfbhbdb
+- controlEvent: keyPress
+  - identifier: b
+  - timestamp: Sat Apr 18 17:17:38 CDT 2020
+  - value: xfbhbdbd
+- controlEvent: keyPress
+  - identifier: b
+  - timestamp: Sat Apr 18 17:17:38 CDT 2020
+  - value: xfbhbdbdn
+- controlEvent: removePress
+  - identifier: 5
+  - timestamp: Sat Apr 18 17:17:39 CDT 2020
+  - value: xfbhbdbd
+- controlEvent: removePress
+  - identifier: 4
+  - timestamp: Sat Apr 18 17:17:39 CDT 2020
+  - value: xfbhbdb
+- controlEvent: setSelection
+  - identifier: 0,7(x,y; where x - start index, y - amount of symbols between start and end index)
+  - timestamp: Sat Apr 18 17:17:40 CDT 2020
+  - value: xfbhbdb
+- controlEvent: setSelection
+  - identifier: 0,6
+  - timestamp: Sat Apr 18 17:17:42 CDT 2020
+  - value: xfbhbdb
+- controlEvent: setSelection
+  - identifier: 0,5
+  - timestamp: Sat Apr 18 17:17:42 CDT 2020
+  - value: xfbhbdb
+- controlEvent: setSelection
+  - identifier: 1,4
+  - timestamp: Sat Apr 18 17:17:42 CDT 2020
+  - value: xfbhbdb
+- controlEvent: setSelection
+  - identifier: 2,3
+  - timestamp: Sat Apr 18 17:17:42 CDT 2020
+  - value: xfbhbdb
+- controlEvent: setSelection
+  - identifier: 3,2
+  - timestamp: Sat Apr 18 17:17:42 CDT 2020
+  - value: xfbhbdb
+- controlEvent: removePress
+  - identifier: 3
+  - timestamp: Sat Apr 18 17:17:46 CDT 2020
+  - value: xfbdb
+- controlEvent: keyPress
+  - identifier: r
+  - timestamp: Sat Apr 18 17:17:47 CDT 2020
+  - value: xfbrdb 
