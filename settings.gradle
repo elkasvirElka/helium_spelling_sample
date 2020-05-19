@@ -1,2 +1,3 @@
 rootProject.name='helium_samples'
 include ':app'
+include ':library'
